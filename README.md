@@ -15,7 +15,7 @@ To explore how Indian children use dugital devices, how often they exceed recomm
   - Dataset: [Kaggle Dataset]*(https://www.kaggle.com/datasets/ankushpanday2/indian-kids-screentime-2025)*
  
     ## 📷 Dashboard Preview
-    ![Dashboard Screenshot](images/dashboard-preview.png)
+    ![Dashboard Screenshot](dashboard-preview.png)
 
  ## ✍️ Created by
 **Anakha Fobbin**  
