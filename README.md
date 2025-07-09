@@ -1,4 +1,4 @@
-![dashboard-preview](https://github.com/user-attachments/assets/0abf7613-e08f-4056-ba19-bb0260df4743)# Indian Kids Screentime Dashboard-2025
+# Indian Kids Screentime Dashboard-2025
 This is an interactive Excel dashboard project analyzing screentime behavior among Indian kids using a real-world dataset from Kaggle.
 
 ## 🔍 Project Objective
